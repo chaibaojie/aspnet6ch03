@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\编程开发\\GitRepositories\\aspnetcore6\\ch03\\PartyInvites\\PartyInvites.csproj": {}
+    "G:\\编程\\Repositories\\aspnet6ch03\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "E:\\编程开发\\GitRepositories\\aspnetcore6\\ch03\\PartyInvites\\PartyInvites.csproj": {
+    "G:\\编程\\Repositories\\aspnet6ch03\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\编程开发\\GitRepositories\\aspnetcore6\\ch03\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "G:\\编程\\Repositories\\aspnet6ch03\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "E:\\编程开发\\GitRepositories\\aspnetcore6\\ch03\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "G:\\编程\\Repositories\\aspnet6ch03\\PartyInvites\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\Lizzie\\.nuget\\packages\\",
-        "outputPath": "E:\\编程开发\\GitRepositories\\aspnetcore6\\ch03\\PartyInvites\\obj\\",
+        "outputPath": "G:\\编程\\Repositories\\aspnet6ch03\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
