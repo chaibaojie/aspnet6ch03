@@ -18,7 +18,11 @@ public class HomeController : Controller
     [HttpPost]
     public ViewResult RsvpForm(GuestResponse guestResponse)
     {
-        //TODO: Store response from guest 
-        return View();
+        Repository.AddResponse(guestResponse);
+        return View("Thanks", guestResponse);
     }     
+    public ViewResult ListResponses()
+    {
+        return View(Repository.Responses.Where(r => r.WillAttend == true));
+    }
 }
