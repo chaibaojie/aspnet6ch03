@@ -71,8 +71,7 @@
               "RelativeToolTip": "Views\\Home\\Thanks.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-03T08:11:02.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T08:11:02.781Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Views\\Home\\RsvpForm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-27T03:32:54.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T03:32:54.722Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwBkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T14:42:32.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T14:42:32.398Z"
             }
           ]
         }
