@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartyInvites")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3dab1ccb320e1d550d34a16094933b20cdaa5f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05455cdd97add765c86d00cb3b5f1177b26994b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartyInvites")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartyInvites")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

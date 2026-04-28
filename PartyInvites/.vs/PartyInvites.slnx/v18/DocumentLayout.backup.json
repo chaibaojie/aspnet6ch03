@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "G:\\\u7F16\u7A0B\\Repositories\\aspnet6ch03\\PartyInvites\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|g:\\\u7F16\u7A0B\\repositories\\aspnet6ch03\\partyinvites\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|g:\\\u7F16\u7A0B\\repositories\\aspnet6ch03\\partyinvites\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|solutionrelative:views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|g:\\\u7F16\u7A0B\\repositories\\aspnet6ch03\\partyinvites\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{305663E7-D6C7-A073-68E3-E54F574018B7}|PartyInvites.csproj|g:\\\u7F16\u7A0B\\repositories\\aspnet6ch03\\partyinvites\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Styles.css",
               "DocumentMoniker": "G:\\\u7F16\u7A0B\\Repositories\\aspnet6ch03\\PartyInvites\\wwwroot\\css\\Styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Styles.css",
@@ -115,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RsvpForm.cshtml",
               "DocumentMoniker": "G:\\\u7F16\u7A0B\\Repositories\\aspnet6ch03\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\RsvpForm.cshtml",
               "ToolTip": "G:\\\u7F16\u7A0B\\Repositories\\aspnet6ch03\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
               "RelativeToolTip": "Views\\Home\\RsvpForm.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-27T03:32:54.722Z",
               "EditorCaption": ""
@@ -136,8 +136,7 @@
               "RelativeToolTip": "Models\\GuestResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T03:24:03.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T03:24:03.871Z"
             },
             {
               "$type": "Document",

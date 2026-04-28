@@ -295,3 +295,4 @@ E:\Repositories\aspnet6ch03\PartyInvites\obj\Debug\net10.0\refint\PartyInvites.d
 E:\Repositories\aspnet6ch03\PartyInvites\obj\Debug\net10.0\PartyInvites.pdb
 E:\Repositories\aspnet6ch03\PartyInvites\obj\Debug\net10.0\PartyInvites.genruntimeconfig.cache
 E:\Repositories\aspnet6ch03\PartyInvites\obj\Debug\net10.0\ref\PartyInvites.dll
+E:\Repositories\aspnet6ch03\PartyInvites\obj\Debug\net10.0\compressed\i2wv7vmscd-{0}-tggrwdhyuq-tggrwdhyuq.gz
